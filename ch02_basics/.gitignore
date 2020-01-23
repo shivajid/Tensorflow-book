@@ -1,0 +1,3 @@
+*.ckpt.meta
+checkpoint
+logs
